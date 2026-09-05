@@ -19,4 +19,4 @@ database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
 [vars]
 NODE_ENV = "production"
 BUILD_TARGET = "cloudflare"
-TMDB_API_KEY = "f1c0a4d9c41320d4a885a5e717d92daf"
+
