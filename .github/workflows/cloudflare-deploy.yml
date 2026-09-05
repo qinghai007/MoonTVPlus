@@ -185,4 +185,5 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: deploy
           packageManager: pnpm
+          vars: TMDB_API_KEY=${{ secrets.TMDB_API_KEY }}
           wranglerVersion: "4.60.0"
